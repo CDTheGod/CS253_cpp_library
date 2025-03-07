@@ -1,0 +1,21 @@
+ISBN,Title,Author,Publisher,Year,Status,DueDate
+978-0321563842,C++ Primer,Stanley Lippman,Addison-Wesley,2012,Borrowed,1742582780
+978-0201633610,Design Patterns,Erich Gamma,Addison-Wesley,1994,Available,0
+978-0132350884,Clean Code,Robert Martin,Prentice Hall,2008,Available,0
+978-0134685991,Effective Modern C++,Scott Meyers,O'Reilly,2014,Available,0
+978-0262033848,Introduction to Algorithms,Thomas Cormen,MIT Press,2009,Available,0
+978-1491903996,The Go Programming Language,Alan Donovan,Addison-Wesley,2015,Available,0
+978-0135957059,The Pragmatic Programmer,David Thomas,Addison-Wesley,2019,Available,0
+978-1617292231,Grokking Algorithms,Aditya Bhargava,Manning,2016,Available,0
+978-0137081073,Code Complete,Steve McConnell,Microsoft Press,2004,Available,0
+978-0596007126,Head First Design Patterns,Eric Freeman,O'Reilly,2004,Available,0
+978-0321563842,C++ Primer,Stanley Lippman,Addison-Wesley,2012,Available,0
+978-0201633610,Design Patterns,Erich Gamma,Addison-Wesley,1994,Available,0
+978-0132350884,Clean Code,Robert Martin,Prentice Hall,2008,Available,0
+978-0134685991,Effective Modern C++,Scott Meyers,O'Reilly,2014,Available,0
+978-0262033848,Introduction to Algorithms,Thomas Cormen,MIT Press,2009,Available,0
+978-1491903996,The Go Programming Language,Alan Donovan,Addison-Wesley,2015,Available,0
+978-0135957059,The Pragmatic Programmer,David Thomas,Addison-Wesley,2019,Available,0
+978-1617292231,Grokking Algorithms,Aditya Bhargava,Manning,2016,Available,0
+978-0137081073,Code Complete,Steve McConnell,Microsoft Press,2004,Available,0
+978-0596007126,Head First Design Patterns,Eric Freeman,O'Reilly,2004,Available,0
