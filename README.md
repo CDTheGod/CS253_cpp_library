@@ -29,24 +29,32 @@ This project provides a comprehensive library management system using C++. It su
 ## Installation
 1. Clone the repository:
 
-```git clone https://github.com/CDTheGod/CS253_cpp_library.git```
+```
+git clone https://github.com/CDTheGod/CS253_cpp_library.git
+```
 
 text
 2. Navigate to the project directory:
 
-```cd CS253_cpp_library```
+```
+cd CS253_cpp_library
+```
 
 text
 
 ## Running the Program
 1. Compile the program:
 
-```g++ -std=c++17 *.cpp -o library_system```
+```
+g++ -std=c++17 *.cpp -o library_system
+```
 
 text
 2. Run the executable:
 
-```./library_system```
+```
+./library_system
+```
 
 text
 
