@@ -33,14 +33,14 @@ This project provides a comprehensive library management system using C++. It su
 git clone https://github.com/CDTheGod/CS253_cpp_library.git
 ```
 
-text
+
 2. Navigate to the project directory:
 
 ```
 cd CS253_cpp_library
 ```
 
-text
+
 
 ## Running the Program
 1. Compile the program:
@@ -49,14 +49,14 @@ text
 g++ -std=c++17 *.cpp -o library_system
 ```
 
-text
+
 2. Run the executable:
 
 ```
 ./library_system
 ```
 
-text
+
 
 ## Usage
 1. **Login Menu**:
